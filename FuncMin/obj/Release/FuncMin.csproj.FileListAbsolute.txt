@@ -7,3 +7,6 @@ C:\Users\Daemon\Documents\Visual Studio 2015\Projects\FuncMin\FuncMin\obj\Releas
 C:\Users\Daemon\Documents\Visual Studio 2015\Projects\FuncMin\FuncMin\obj\Release\FuncMin.csproj.GenerateResource.Cache
 C:\Users\Daemon\Documents\Visual Studio 2015\Projects\FuncMin\FuncMin\obj\Release\FuncMin.exe
 C:\Users\Daemon\Documents\Visual Studio 2015\Projects\FuncMin\FuncMin\obj\Release\FuncMin.pdb
+C:\Users\Daemon\Documents\GitHub\FuncMin\FuncMin\bin\Release\FuncMin.exe.config
+C:\Users\Daemon\Documents\GitHub\FuncMin\FuncMin\obj\Release\FuncMin.exe
+C:\Users\Daemon\Documents\GitHub\FuncMin\FuncMin\obj\Release\FuncMin.pdb
