@@ -1,0 +1,9 @@
+c:\users\daemon\documents\visual studio 2015\Projects\FuncMin\FuncMin\bin\Debug\FuncMin.exe.config
+c:\users\daemon\documents\visual studio 2015\Projects\FuncMin\FuncMin\bin\Debug\FuncMin.exe
+c:\users\daemon\documents\visual studio 2015\Projects\FuncMin\FuncMin\bin\Debug\FuncMin.pdb
+c:\users\daemon\documents\visual studio 2015\Projects\FuncMin\FuncMin\obj\Debug\FuncMin.csprojResolveAssemblyReference.cache
+c:\users\daemon\documents\visual studio 2015\Projects\FuncMin\FuncMin\obj\Debug\FuncMin.Form1.resources
+c:\users\daemon\documents\visual studio 2015\Projects\FuncMin\FuncMin\obj\Debug\FuncMin.Properties.Resources.resources
+c:\users\daemon\documents\visual studio 2015\Projects\FuncMin\FuncMin\obj\Debug\FuncMin.csproj.GenerateResource.Cache
+c:\users\daemon\documents\visual studio 2015\Projects\FuncMin\FuncMin\obj\Debug\FuncMin.exe
+c:\users\daemon\documents\visual studio 2015\Projects\FuncMin\FuncMin\obj\Debug\FuncMin.pdb
